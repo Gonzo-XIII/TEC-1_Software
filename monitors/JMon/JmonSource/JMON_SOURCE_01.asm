@@ -3,7 +3,7 @@
 ;BY JIM ROBERTSON
 ;
 ;
-;FILENAME : JMON_SRC_01.ASM
+;FILENAME : JMON_SOURCE_01.ASM
 ;VERSION : 1
 ;
 ;This version has been cleaned up by Mark Jelic, June 2021
