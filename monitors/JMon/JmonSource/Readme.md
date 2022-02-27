@@ -1,0 +1,1 @@
+The files in this folder contain essentially the same code as the "Originals" but they are commented, labelled and generally formatted in a more readable fashion. They should compile to the byte equivalent, however.
